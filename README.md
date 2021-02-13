@@ -1,2 +1,2 @@
-# T-rex-run-the-end
-RUN
+# T-Rex Game W/Changes
+T-Rex Game with a read END, and camera view
